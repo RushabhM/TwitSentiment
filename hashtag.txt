@@ -1,0 +1,15 @@
+weight=2 tag=ftw polarity=positive
+weight=2 tag=win polarity=positive
+weight=4 tag=fml polarity=negative
+weight=2 tag=fail polarity=negative
+weight=4 tag=megusta polarity=positive
+weight=4 tag=gusta polarity=positive
+weight=2 tag=vodafonefail polarity=negative
+weight=2 tag=annoyed polarity=negative
+weight=3 tag=disappointed polarity=negative
+weight=1 tag=discount polarity=positive
+weight=4 tag=hate polarity=negative
+weight=2 tag=poor polarity=negative
+weight=2 tag=poorservice polarity=negative
+weight=1 tag=help polarity=neutral
+weight=2 tag=vodafonesucks polarity=negative
